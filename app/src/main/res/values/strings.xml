@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bottom AppBar Demo</string>
+
+    <string name="accelerator">Accelerator</string>
+    <string name="content_description_accelerator">Accelerator Icon</string>
+    <string name="rotation">Rotation</string>
+    <string name="content_description_rotation">Rotation Icon</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="content_description_dashboard">Dashboard Icon</string>
+
+    <string name="floating_button_description">Floating Button Icon</string>
+    <string name="templates">Templates</string>
+    <string name="my_projects">My Projects</string>
+</resources>
