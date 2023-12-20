@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
             .setBottomRightCorner(CornerFamily.ROUNDED, 80f)
             .setBottomLeftCorner(CornerFamily.ROUNDED, 80f)
             .build()
+
+        // for the sake of the github commit
     }
 
 }
